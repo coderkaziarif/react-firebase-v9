@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+body{
+   /* font-family: 'Gloria Hallelujah', cursive; */
+   font-family: 'Courgette', cursive;
+}
+
+.innerBox{
+   width: 30%;
+   /* border: 2px solid #2979ff ; */
+   /* border: 2px inset#2979ff; */
+   /* border: 2px outset#ffc107; */
+   border: 2px outset#9c27b0;
+   border-radius: 5px;
+   padding: 40px 20px;
+   text-align:center;
+     
+}
